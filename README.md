@@ -52,3 +52,4 @@ Frame Resolution: The higher the resolution of the video, the more accurate your
 
 Occlusion: If the object gets partially or fully occluded (blocked by other objects), the tracking can fail, and you might need to implement recovery strategies like re-identification. -->
 
+OMP_NUM_THREADS=1 python3 main.py
